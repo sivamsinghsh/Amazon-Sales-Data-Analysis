@@ -1,5 +1,6 @@
 
-![Logo](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/d896faf2244e48569329ad1c4903595b1f6d1b3c/Media/image.png)
+
+[![image.png](https://i.postimg.cc/59nmV0Fk/image.png)](https://postimg.cc/0rKSG9np)
 
 
 # Amazon Sales Data Analysis Project 📊
@@ -17,10 +18,10 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
     2. Power BI
 ## 📉 Dashboard
 
-![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard1.png)
-![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png)
-Watch the complete Dashboard video [Link](https://youtu.be/IiSwuvOhPi0)
-
+[![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
+<!-- ![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
+[![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
+Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 
 ## ✔️ Conclusion
 1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
@@ -34,17 +35,17 @@ Watch the complete Dashboard video [Link](https://youtu.be/IiSwuvOhPi0)
 5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
 ## 🗂 Documentation
 
-[High Level Document](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/HLD%20Document.pdf)
+[High Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/HLD%20Document.pdf)
 
-[Low Level Document](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/LLD%20Document.pdf)
+[Low Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/LLD%20Document.pdf)
 
-[Architecture](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Architecture.pdf)
+[Architecture](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Architecture.pdf)
 
-[WireFrame](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Wireframe.pdf)
+[WireFrame](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Wireframe.pdf)
 
-[Report](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Amazon%20sales%20report.pptx)
+[Report](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Amazon%20sales%20report.pptx)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/ashishraykar/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
 
